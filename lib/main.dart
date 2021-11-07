@@ -18,17 +18,17 @@ class _MyAppState extends State<MyApp> {
     {
       'questionText': 'আপনার পছন্দের খাবার কি?\n What is your favorite foods?',
       'answers': [
-        {'text': 'birani', 'score': 10},
-        {'text': 'plain rice', 'score': 20},
-        {'text': 'fry', 'score': 15},
+        {'text': 'birani', 'score': 5},
+        {'text': 'plain rice', 'score': 15},
+        {'text': 'fry', 'score': 10},
         {'text': 'salad', 'score': 25},
       ],
     },
     {
       'questionText': 'আপনার পছন্দের রং কি?\n What is your favorite color?',
       'answers': [
-        {'text': 'blue', 'score': 10},
-        {'text': 'red', 'score': 20},
+        {'text': 'blue', 'score': 5},
+        {'text': 'red', 'score': 15},
         {'text': 'black', 'score': 30},
         {'text': 'white', 'score': 10},
       ],
@@ -37,8 +37,8 @@ class _MyAppState extends State<MyApp> {
       'questionText':
           'আপনার পছন্দের প্রানী কি?\n What is your favorite animal?',
       'answers': [
-        {'text': 'tiger', 'score': 10},
-        {'text': 'lion', 'score': 20},
+        {'text': 'tiger', 'score': 5},
+        {'text': 'lion', 'score': 15},
         {'text': 'fox', 'score': 30},
         {'text': 'elephant', 'score': 10},
       ],
@@ -46,8 +46,8 @@ class _MyAppState extends State<MyApp> {
     {
       'questionText': 'আপনার পছন্দের খেলা কি?\n What is your favorite sports?',
       'answers': [
-        {'text': 'badminton', 'score': 10},
-        {'text': 'cricket', 'score': 20},
+        {'text': 'badminton', 'score': 5},
+        {'text': 'cricket', 'score': 15},
         {'text': 'football', 'score': 30},
         {'text': 'ragbi', 'score': 10},
       ],
@@ -56,8 +56,8 @@ class _MyAppState extends State<MyApp> {
       'questionText':
           'আপনার পছন্দের প্রযুক্তিবিদ কে?\n Who is your favorite tech person?',
       'answers': [
-        {'text': 'bill gates', 'score': 10},
-        {'text': 'mark zukerbaerg', 'score': 20},
+        {'text': 'bill gates', 'score': 5},
+        {'text': 'mark zukerbaerg', 'score': 15},
         {'text': 'elon mask', 'score': 30},
         {'text': 'jeff bejos', 'score': 10},
       ],
@@ -65,8 +65,8 @@ class _MyAppState extends State<MyApp> {
     {
       'questionText': 'আপনার পছন্দের দেশ কি?\n What is your favorite country?',
       'answers': [
-        {'text': 'USA', 'score': 10},
-        {'text': 'UK', 'score': 20},
+        {'text': 'USA', 'score': 5},
+        {'text': 'UK', 'score': 15},
         {'text': 'EU', 'score': 30},
         {'text': 'AU', 'score': 10},
       ],
